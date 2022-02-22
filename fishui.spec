@@ -10,7 +10,7 @@
 Name: fishui
 Version: 0.7
 #Version: 0.3git.%%(date +%Y%m%d).%%{git_refspec_short}
-Release: 1%{?dist}
+Release: 2%{?dist}
 License: GPLv3
 Summary: CutefishOS GUI library, based on Qt Quick
 
